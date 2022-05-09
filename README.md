@@ -12,7 +12,7 @@ An About page discussing where the company began, and where they plan to go, wou
 
 Screeshot of current website: 
 
-![Horiseon Website]/ChallengeOne/Develop/HoriseonScreenShot.jpg?raw=true "Horiseon")
+![HoriseonScreenShot](https://user-images.githubusercontent.com/104099393/167451882-5af05d5a-bbee-496c-8896-6aed5c4702e1.jpg)
 
 
 ## Built With:
